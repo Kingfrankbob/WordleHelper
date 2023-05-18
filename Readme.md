@@ -24,10 +24,10 @@ This is a simple application for helping you find all the possible words for tod
 - Add a refresh button
 - Add a better auto-refresh function
 
-## Q/A
+### Q/A
 
 Make Issues or pr to change or modify the program if you think it needs it!
 
-## License
+### License
 
 If No License is given, it is to be listed under the MIT license.
