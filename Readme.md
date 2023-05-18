@@ -30,4 +30,4 @@ Make Issues or pr to change or modify the program if you think it needs it!
 
 ## License
 
-If No Licesne is given, it is to be listed under the MIT license.
+If No License is given, it is to be listed under the MIT license.
