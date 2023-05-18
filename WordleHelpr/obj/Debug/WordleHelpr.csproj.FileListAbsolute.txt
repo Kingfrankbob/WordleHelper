@@ -1,0 +1,13 @@
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\bin\Debug\WordleHelpr.exe.config
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\bin\Debug\WordleHelpr.exe
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\bin\Debug\WordleHelpr.pdb
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\bin\Debug\WordleRefr.dll
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\obj\Debug\WordleHelpr.csproj.AssemblyReference.cache
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\obj\Debug\WordleHelpr.csproj.SuggestedBindingRedirects.cache
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\obj\Debug\WordleHelpr.Form1.resources
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\obj\Debug\WordleHelpr.Properties.Resources.resources
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\obj\Debug\WordleHelpr.csproj.GenerateResource.cache
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\obj\Debug\WordleHelpr.csproj.CoreCompileInputs.cache
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\obj\Debug\WordleHelpr.csproj.CopyComplete
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\obj\Debug\WordleHelpr.exe
+C:\Users\ajwpc\source\repos\WordleHelpr\WordleHelpr\obj\Debug\WordleHelpr.pdb
