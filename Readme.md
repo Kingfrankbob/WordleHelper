@@ -21,8 +21,9 @@ This is a simple application for helping you find all the possible words for tod
 ### Todo
 
 - Add it to where you can say where know letters ARE NOT
-- Add a refresh button
+- ~~Add a refresh button~~ Completed!!!
 - Add a better auto-refresh function
+- ~~Implement some kind of inside web as part of the application~~ (Not Happening)
 
 ### Q/A
 
