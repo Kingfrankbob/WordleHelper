@@ -31,12 +31,10 @@ namespace WordleHelpr
         {
                 refresh();
         }
-
-
         private void refresh()
         {
-            String knownThing = knownStuff.Text, existsText = Inside.Text, notIn = isNotIn.Text;
-            var prints = WordleRefr.Class1.SearchWith(knownThing, existsText, notIn);
+            String knownThing = knownStuff.Text, existsText = Inside.Text, notIn = isNotIn.Text, letterNPlace = letterPlacement.Text;
+            var prints = WordleRefr.Class1.SearchWith(knownThing, existsText, notIn, letterNPlace);
             textBox1.Text = "Current Matches:\n" + prints.Count();
             prints.Sort();
             var previousletter = "";
@@ -58,6 +56,16 @@ namespace WordleHelpr
             }
            
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            refresh();
+        }
+
+        private void letterPlacement_TextChanged(object sender, EventArgs e)
+        {
+            refresh();
         }
     }
 }

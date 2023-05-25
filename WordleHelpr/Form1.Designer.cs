@@ -37,6 +37,10 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.letterPlacement = new System.Windows.Forms.TextBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // knownStuff
@@ -121,6 +125,7 @@
             // textBox4
             // 
             this.textBox4.BackColor = System.Drawing.Color.SeaGreen;
+            this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox4.ForeColor = System.Drawing.Color.DarkSlateBlue;
             this.textBox4.Location = new System.Drawing.Point(120, 108);
             this.textBox4.Multiline = true;
@@ -130,12 +135,64 @@
             this.textBox4.TabIndex = 10;
             this.textBox4.Text = "<- Add Letters you know are not in the word";
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(13, 225);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(100, 39);
+            this.button1.TabIndex = 11;
+            this.button1.Text = "Refresh";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // textBox6
+            // 
+            this.textBox6.BackColor = System.Drawing.Color.SeaGreen;
+            this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox6.ForeColor = System.Drawing.Color.DarkSlateBlue;
+            this.textBox6.Location = new System.Drawing.Point(13, 561);
+            this.textBox6.Multiline = true;
+            this.textBox6.Name = "textBox6";
+            this.textBox6.ReadOnly = true;
+            this.textBox6.Size = new System.Drawing.Size(384, 104);
+            this.textBox6.TabIndex = 13;
+            this.textBox6.Text = "In the Box above, enter the letters  with the points they cannot belong at,      " +
+    "                       (letter, place1,place2,placeX...)";
+            // 
+            // letterPlacement
+            // 
+            this.letterPlacement.Location = new System.Drawing.Point(13, 279);
+            this.letterPlacement.Multiline = true;
+            this.letterPlacement.Name = "letterPlacement";
+            this.letterPlacement.Size = new System.Drawing.Size(354, 276);
+            this.letterPlacement.TabIndex = 14;
+            this.letterPlacement.Text = "~";
+            this.letterPlacement.TextChanged += new System.EventHandler(this.letterPlacement_TextChanged);
+            // 
+            // textBox5
+            // 
+            this.textBox5.BackColor = System.Drawing.Color.SeaGreen;
+            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox5.ForeColor = System.Drawing.Color.DarkSlateBlue;
+            this.textBox5.Location = new System.Drawing.Point(127, 225);
+            this.textBox5.Multiline = true;
+            this.textBox5.Name = "textBox5";
+            this.textBox5.ReadOnly = true;
+            this.textBox5.Size = new System.Drawing.Size(280, 44);
+            this.textBox5.TabIndex = 15;
+            this.textBox5.Text = "Tilde  ~  means no answer";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.SeaGreen;
             this.ClientSize = new System.Drawing.Size(800, 677);
+            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.letterPlacement);
+            this.Controls.Add(this.textBox6);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);
@@ -162,6 +219,10 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox letterPlacement;
+        private System.Windows.Forms.TextBox textBox5;
     }
 }
 
