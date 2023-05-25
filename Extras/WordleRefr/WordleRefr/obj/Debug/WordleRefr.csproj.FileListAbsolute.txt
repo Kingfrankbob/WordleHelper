@@ -1,0 +1,6 @@
+C:\Users\ajwpc\source\repos\WordleRefr\WordleRefr\obj\Debug\WordleRefr.csproj.AssemblyReference.cache
+C:\Users\ajwpc\source\repos\WordleRefr\WordleRefr\obj\Debug\WordleRefr.csproj.CoreCompileInputs.cache
+C:\Users\ajwpc\source\repos\WordleRefr\WordleRefr\bin\Debug\WordleRefr.dll
+C:\Users\ajwpc\source\repos\WordleRefr\WordleRefr\bin\Debug\WordleRefr.pdb
+C:\Users\ajwpc\source\repos\WordleRefr\WordleRefr\obj\Debug\WordleRefr.dll
+C:\Users\ajwpc\source\repos\WordleRefr\WordleRefr\obj\Debug\WordleRefr.pdb

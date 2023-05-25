@@ -1,0 +1,15 @@
+C:\Users\ajwpc\Github\letterSearch\bin\Debug\net7.0\letterSearch.exe
+C:\Users\ajwpc\Github\letterSearch\bin\Debug\net7.0\letterSearch.deps.json
+C:\Users\ajwpc\Github\letterSearch\bin\Debug\net7.0\letterSearch.runtimeconfig.json
+C:\Users\ajwpc\Github\letterSearch\bin\Debug\net7.0\letterSearch.dll
+C:\Users\ajwpc\Github\letterSearch\bin\Debug\net7.0\letterSearch.pdb
+C:\Users\ajwpc\Github\letterSearch\obj\Debug\net7.0\letterSearch.csproj.AssemblyReference.cache
+C:\Users\ajwpc\Github\letterSearch\obj\Debug\net7.0\letterSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajwpc\Github\letterSearch\obj\Debug\net7.0\letterSearch.AssemblyInfoInputs.cache
+C:\Users\ajwpc\Github\letterSearch\obj\Debug\net7.0\letterSearch.AssemblyInfo.cs
+C:\Users\ajwpc\Github\letterSearch\obj\Debug\net7.0\letterSearch.csproj.CoreCompileInputs.cache
+C:\Users\ajwpc\Github\letterSearch\obj\Debug\net7.0\letterSearch.dll
+C:\Users\ajwpc\Github\letterSearch\obj\Debug\net7.0\refint\letterSearch.dll
+C:\Users\ajwpc\Github\letterSearch\obj\Debug\net7.0\letterSearch.pdb
+C:\Users\ajwpc\Github\letterSearch\obj\Debug\net7.0\letterSearch.genruntimeconfig.cache
+C:\Users\ajwpc\Github\letterSearch\obj\Debug\net7.0\ref\letterSearch.dll
